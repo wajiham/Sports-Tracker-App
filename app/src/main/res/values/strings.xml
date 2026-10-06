@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sports-Tracker-App</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="pick_image_button">Pick Image</string>
+    <string name="password_hidden_text"> </string>
+    <string name="update_button">Update</string>
+    <string name="logout_button">Logout</string>
+    <string name="default_user_image"> </string>
+    <string name="picked_user_image"> </string>
+</resources>
