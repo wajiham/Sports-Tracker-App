@@ -152,6 +152,4 @@ The individual screen composables mainly focus on their own UI and use callbacks
 `Kotlin` • `@Composable` • `Column` • `Row` • `Text` • `TextField` • `Button` • `Image` • `Modifier`  
 `remember` • `mutableStateOf` • State-driven UI • Recomposition • Lambdas • State hoisting  
 `if / else` • Password transformation • `Intent` • Activity Result Launcher • `Uri` • Coil `AsyncImage`
-- Image selection from the device
-- Coil `AsyncImage`
 
