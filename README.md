@@ -12,9 +12,9 @@ The app currently contains three main UI states:
    - Displays the Sports Tracker logo.
    - Contains a Continue button.
    - Clicking Continue opens the User Account editing screen.
-   <p align="center">
-  <img src="./Images/HomeScreen.png" width="250">
-  </p>
+   <div align="center">
+  <img src="Images/HomeScreen.png" width="250">
+</div>
 
 2. **User Account Editing Screen**
    - Allows the user to enter a username.
