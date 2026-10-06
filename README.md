@@ -12,10 +12,10 @@ The app currently contains three main UI states:
    - Displays the Sports Tracker logo.
    - Contains a Continue button.
    - Clicking Continue opens the User Account editing screen.
-     
-   <div align="center">
-  <img src="Images/HomeScreen.png" width="250">
-</div>
+
+<p align="center">
+  <img src="Images/HomeScreen.png" width="250" />
+</p>
 
 2. **User Account Editing Screen**
    - Allows the user to enter a username.
@@ -24,9 +24,10 @@ The app currently contains three main UI states:
    - Contains a Confirm button.
    - After confirming, the app switches to the User Account display screen.
      
-   <p align="center">
-  <img src="./Images/UserAccount.png" width="250">
-  </p>
+
+<p align="center">
+  <img src="Images/UserAccount.png" width="250" />
+</p>
 
 3. **User Account Display Screen**
    - Displays the saved username.
@@ -34,9 +35,11 @@ The app currently contains three main UI states:
    - Displays either the default profile image or the image selected by the user.
    - Contains Update and Logout buttons.
      
-   <p align="center">
-  <img src="./Images/UserAccountDisplay.png" width="250">
-  </p>
+
+
+<p align="center">
+  <img src="Images/UserAccountDisplay.png" width="250" />
+</p>
 
 
 ## Update Button
