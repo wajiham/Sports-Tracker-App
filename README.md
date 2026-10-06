@@ -147,26 +147,11 @@ The individual screen composables mainly focus on their own UI and use callbacks
 
 ## Concepts Practiced So Far
 
-- Kotlin basics
-- `@Composable`
-- `Column`
-- `Row`
-- `Text`
-- `TextField`
-- `Button`
-- `Image`
-- `Modifier`
-- `remember`
-- `mutableStateOf`
-- State-driven UI
-- Recomposition
-- Lambdas and callbacks
-- State hoisting
-- Conditional rendering using `if / else`
-- Password visual transformation
-- Android `Intent`
-- Activity result launcher
-- `Uri`
+## Concepts Practiced So Far
+
+`Kotlin` • `@Composable` • `Column` • `Row` • `Text` • `TextField` • `Button` • `Image` • `Modifier`  
+`remember` • `mutableStateOf` • State-driven UI • Recomposition • Lambdas • State hoisting  
+`if / else` • Password transformation • `Intent` • Activity Result Launcher • `Uri` • Coil `AsyncImage`
 - Image selection from the device
 - Coil `AsyncImage`
 
